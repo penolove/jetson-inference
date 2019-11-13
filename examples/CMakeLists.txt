@@ -3,6 +3,7 @@ add_subdirectory(imagenet-console)
 add_subdirectory(imagenet-camera)
 
 add_subdirectory(detectnet-console)
+add_subdirectory(mobilessd-console)
 add_subdirectory(detectnet-camera)
 
 add_subdirectory(segnet-console)
